@@ -29,7 +29,7 @@ You can access and interact directly with the dashboard via Tableau Public:
 
 Below is a preview of the dashboard:
 
-![British Airways Reviews Dashboard Preview](British Airways Reviews Dashboard.png)
+![British Airways Reviews Dashboard Preview](British%20Airways%20Reviews%20Dashboard.png)
 
 ---
 
