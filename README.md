@@ -66,7 +66,7 @@ This analysis is based on two primary CSV files:
 * `Countries.csv`: Supporting country information dataset.
 *  `British Airways Reviews Dashboard.png`: Dashboard preview image.
 * `README.md`: This project explanation.
-* `British Airways Reviews Dashboard.twb`: This project Tableau source code file
+* `British Airways Reviews Dashboard.twb`: This project Tableau source code file.
 
 ---
 
@@ -74,8 +74,7 @@ This analysis is based on two primary CSV files:
 
 **Umar Khairur Rahman**
 * Tableau Public Profile: [umar.rahman](https://public.tableau.com/app/profile/umar.rahman)
-* GitHub: `[Your GitHub Profile Link if different or to be added]`
-* LinkedIn: `[Your LinkedIn Profile Link if you wish to add it]`
-* Email: `[Your Email Address if you wish to add it]`
+* GitHub: `https://github.com/FBNajis`
+* LinkedIn: `https://www.linkedin.com/in/umar-khairur-rahman-168739258/`
 
 ---
