@@ -66,7 +66,7 @@ This analysis is based on two primary CSV files:
 * `Countries.csv`: Supporting country information dataset.
 *  `British Airways Reviews Dashboard.png`: Dashboard preview image.
 * `README.md`: This project explanation.
-* `British Airways Reviews Dashboard.twb`: This project Tableau source code file.
+* `British Airways Reviews Dashboard.twb`: Tableau source code file.
 
 ---
 
